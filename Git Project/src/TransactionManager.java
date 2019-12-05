@@ -27,6 +27,8 @@ public class TransactionManager {
 	public void run() {
 
 		System.out.println("This is not the same print line as before");
+		
+		System.out.println("I just changed this");
 
 		//some setup
 		TransactionInputOutput inputOutput = new TransactionInputOutput();
