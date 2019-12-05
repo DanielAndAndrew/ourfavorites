@@ -25,6 +25,7 @@ public class TransactionManager {
 	 * Fourth step is to print summaries to the console
 	 */
 	public void run() {
+		System.out.println("This is not the same print line as before");
 		//some setup
 		TransactionInputOutput inputOutput = new TransactionInputOutput();
 		String creditCardFileName;
