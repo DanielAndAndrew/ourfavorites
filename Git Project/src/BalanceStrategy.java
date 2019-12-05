@@ -38,5 +38,8 @@ public class BalanceStrategy {
 	public double getOverDraft() {
 		return overDraft;
 	}
+	public String gitExample() {
+		return "This is an example edit for git commenting and commiting...";
+	}
 	
 }
